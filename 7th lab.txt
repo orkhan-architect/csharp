@@ -1,0 +1,5 @@
+Подсчитать, сколько раз каждое слово встречается в заданном тексте. Результат записать в коллекцию Dictionary<TKey, TValue>. Текс использовать из приложения 1.
+
+Приложение 1.
+This is house which has built Jack. But this is corn which keeps in a dark closet in the house which has built Jack.
+But this is titbird which often steals corn which keeps in a dark closet in the house which has built Jack.
